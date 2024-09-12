@@ -1,5 +1,5 @@
 # Documentation
-[Official docs](https://redis.io/docs/latest/develop/data-types/strings/)
+[Official documentation](https://redis.io/docs/latest/develop/data-types/strings/)
 
 # Introduction
 - Keys are always a String in redis
